@@ -127,7 +127,7 @@ function mostrarFooter() {
   fill(255);
   textSize(14);
   textAlign(CENTER);
-  text("Desarrollado por: Tu Equipo - © 2023 Space Game", width/2, height - 10);
+  text("Desarrollado por: Kaiju Tech team - © 2024 Space Game for Nasa Space Apps", width/2, height - 10);
 }
 
 function reiniciarJuego() {
